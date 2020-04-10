@@ -17,7 +17,7 @@ https://drive.google.com/open?id=1nlyTRO9s7ldMavCtH8lhtiqbDpU_pVZfThe
 company that employs you operates more than 3,000 stores in 7 countries Europeans. Currently, store managers are responsible for estimating their daily sales up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school holidays, seasonality and location. With thousands of individual managers predicting sales based on their particular situation, the accuracy of the results can be very variable.
 Perform a statistical analysis of the data set and draw conclusions that could help the sales teams. The objective of this step is to extract information from statistical indicators.
 
-##Machine Learning
+## Machine Learning
 Create a Machine Learning model that addresses the use case problem from the data set. All the decisions taken concerning the choice of the evaluation metric, the validation strategy as well as the choice of the learning algorithm, must be justified. Note: the objective of this step is not to optimize a hundredth of a point the loss of the learning algorithm but to establish an argued methodology and put it into practice.
 ## Presentation of results & Recommendations
 
