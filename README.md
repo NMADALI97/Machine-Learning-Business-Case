@@ -11,7 +11,9 @@ You are a Data Scientist in the IT department in a large French company. The com
 
 ## Statistical Data Analysis & Data Validation
 From this step, you will focus on the dataset available from the following link:
+
 https://drive.google.com/open?id=1nlyTRO9s7ldMavCtH8lhtiqbDpU_pVZfThe 
+
 company that employs you operates more than 3,000 stores in 7 countries Europeans. Currently, store managers are responsible for estimating their daily sales up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school holidays, seasonality and location. With thousands of individual managers predicting sales based on their particular situation, the accuracy of the results can be very variable.
 Perform a statistical analysis of the data set and draw conclusions that could help the sales teams. The objective of this step is to extract information from statistical indicators.
 
